@@ -1,0 +1,4 @@
+sample_index,question_type,question,reference_answers,gemma_prediction,inference_time_s
+0,open,"Which market crash had a severe impact on the S&P 500 in 90 days, Coronavirus Crash, Great Depression or Black Monday ?","[""great depression""]",Coronavirus crash,1.72
+1,numeric,"What was the time taken to recover after the corona virus crash, 645, 693, or 741?","[""693""]",693,0.7
+2,numeric,How many points does the health related stigmatization cover ?,"[""6""]",The image does not state how many points the health related stigmatization covers.,0.87

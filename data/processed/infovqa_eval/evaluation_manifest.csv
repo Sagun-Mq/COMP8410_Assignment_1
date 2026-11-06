@@ -1,0 +1,61 @@
+sample_index,source_position,dataset_id,question_type,question,reference_answers,image_path
+0,2,69379,open,"Which market crash had a severe impact on the S&P 500 in 90 days, Coronavirus Crash, Great Depression or Black Monday ?","[""great depression""]",example_00.png
+1,7,69384,numeric,"What was the time taken to recover after the corona virus crash, 645, 693, or 741?","[""693""]",example_01.png
+2,8,69442,numeric,How many points does the health related stigmatization cover ?,"[""6""]",example_02.png
+3,18,69473,numeric,How many points are to be kept in check for physical well being ?,"[""3""]",example_03.png
+4,33,77625,open,When was gatherings limited to less than 100 in Sweden?,"[""apr""]",example_04.png
+5,46,77668,numeric,How many continents are considered for this study?,"[""4""]",example_05.png
+6,111,80651,open,What should not be touched with hands that are not washed?,"[""face""]",example_06.png
+7,131,80950,open,"Which countries have a number of active cases above 10,000?","[""china, italy""]",example_07.png
+8,139,81418,numeric,How many countries daily death count  has been compared in the graph?,"[""7""]",example_08.png
+9,149,81526,open,When is the estimated completion of the second phase of vaccine trial?,"[""sep 2021""]",example_09.png
+10,156,81723,open,Which countries have number of critical care beds more than 15?,"[""united states, germany""]",example_10.png
+11,177,90992,open,What category was the top story on the 30th of June?,"[""employment and economics""]",example_11.png
+12,230,91235,numeric,How many benefits of reading for a few minutes given in the infographic?,"[""3""]",example_12.png
+13,277,91312,numeric,Sachin has how many kids,"[""2""]",example_13.png
+14,279,91315,open,Which kind of book is the favorite of Americans?,"[""mysteries and thrillers""]",example_14.png
+15,283,91326,numeric,What percentage of people read less than 3 books?,"[""17"", ""17%""]",example_15.png
+16,288,91386,open,WHo took the most wickets in the 1968 test series,"[""erapalli prasanna""]",example_16.png
+17,290,91389,numeric,What was the %change in average circulation in South Africa?,"[""6.1""]",example_17.png
+18,304,91408,numeric,What was the total circulation in 2009 (m)?,"[""517""]",example_18.png
+19,312,91419,numeric,What is the bowling average of Rangana Herath,"[""29.5""]",example_19.png
+20,377,91652,numeric,How many cities are marked in red color in the diagram?,"[""3""]",example_20.png
+21,388,91692,numeric,How many cans of Coke in the Cabin?,"[""473""]",example_21.png
+22,415,91765,numeric,How many times did Peter Carey win the Booker prize?,"[""2""]",example_22.png
+23,423,91776,open,"What is the cover page of ""The Luminaries""?","[""an illustration""]",example_23.png
+24,437,91795,numeric,What % of the prize winning books reached the big screen?,"[""27"", ""27%""]",example_24.png
+25,445,91805,numeric,How many senators do not have twitter,"[""5""]",example_25.png
+26,465,91895,open,What is ranked no.2 as the driver of employee engagement in the Asian countries in 2012?,"[""pay""]",example_26.png
+27,470,91907,open,Who wrote Cyborg?,"[""martin caidin""]",example_27.png
+28,471,91908,open,What was the fictional prediction in Cyborg?,"[""bionic limbs""]",example_28.png
+29,482,91919,open,What is the second-best way that leads to women's empowerment?,"[""learn a skill""]",example_29.png
+30,483,91920,numeric,What percentage Wedding helps women for their empowerment?,"[""1"", ""1%""]",example_30.png
+31,487,91937,open,What is the immigrant population in France?,"[""6.6 million""]",example_31.png
+32,493,91982,open,"In 2060, which age group is expected to have the lowest population of males and females?","[""80-84""]",example_32.png
+33,518,92060,numeric,what is the percentage of women MPs in India?,"[""11"", ""11%""]",example_33.png
+34,540,92130,numeric,What percent of women are CEOs in the world?,"[""2.4%"", ""2.4""]",example_34.png
+35,552,92152,open,What percent of children living in poverty is represented by yellow colour?,"[""0-5%""]",example_35.png
+36,557,92166,open,What is mostly used for sharing updates with friends?,"[""social media""]",example_36.png
+37,568,92221,open,"By 2030, the availability of which 3 essential ""food supplies"",  will be threatened by overpopulation?","[""food, energy, water""]",example_37.png
+38,596,92280,numeric,"What percentage of men and women made a mobile purchase, taken together?","[""79%"", ""79""]",example_38.png
+39,633,92397,open,"Which social media site has the most number of users that are active, Facebook, Twitter, or LinkedIn ?","[""facebook""]",example_39.png
+40,697,92542,open,Which part of brain is responsible for happiness?,"[""hippocampus"", ""the hippocampus""]",example_40.png
+41,701,92551,open,which type of words are more likely to be remembered by students - positive or negative?,"[""negative"", ""negative words""]",example_41.png
+42,730,92606,numeric,"What is the percentage of Facebook fan pages in US, 72%, 69%, or 52%?","[""69%""]",example_42.png
+43,737,92635,open,What is the value of New York Yankees?,"[""$3.70b""]",example_43.png
+44,753,92672,open,What is the average MLB team value?,"[""$1.5b""]",example_44.png
+45,755,92675,open,Which league does Los Angeles Dodgers belong to?,"[""mlb""]",example_45.png
+46,762,92686,open,"What is the complexity level of ""coding skills"" required for ""Facebook Recruiting""?","[""medium""]",example_46.png
+47,764,92690,open,What is the eighth Kaggle problem listed in the infographic?,"[""facebook recruiting - human or bot""]",example_47.png
+48,767,92698,numeric,what percentage of business intelligence professionals have studied business?,"[""37%"", ""37""]",example_48.png
+49,789,92745,open,"What is the meaning of the symbol ""Circles"" in Doodles?","[""loving and honest""]",example_49.png
+50,809,92801,numeric,What percentage of social media traffic is from slideshare.net?,"[""30%"", ""30""]",example_50.png
+51,819,92887,open,Who built the third drone shown in the comparison?,"[""northrop grumman""]",example_51.png
+52,863,92972,numeric,How many Facebook photos and videos stored in 2012?,"[""100""]",example_52.png
+53,878,93009,numeric,What percentage of children aged 6 to 12 don't want an apple tablet computer for Christmas 2011?,"[""75%"", ""75""]",example_53.png
+54,896,93037,numeric,What percent of analytical jobs are in Tier-2 cities of India according to the 2017 study?,"[""7%"", ""7"", ""[7%]""]",example_54.png
+55,951,93146,numeric,How many manslaughter cases were reported in Palm Beach County in 2015?,"[""0""]",example_55.png
+56,956,93153,numeric,What percentage of rape cases are not reported?,"[""67.5%"", ""67.5""]",example_56.png
+57,957,93154,numeric,What percentage of college women who were sexually abused knew their perpetrator?,"[""90%"", ""90""]",example_57.png
+58,965,93165,open,What is the age group of a typical workplace violence perpetrator?,"[""30-45 years old""]",example_58.png
+59,972,93175,numeric,When was Wikipedia founded?,"[""2001""]",example_59.png

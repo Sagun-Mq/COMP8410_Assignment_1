@@ -1,0 +1,8 @@
+{
+  "dataset": "mm-eval/InfographicVQA",
+  "split": "validation",
+  "seed": 42,
+  "scan_limit": 1000,
+  "samples_per_type": 30,
+  "sampling_method": "stratified reservoir sampling"
+}
