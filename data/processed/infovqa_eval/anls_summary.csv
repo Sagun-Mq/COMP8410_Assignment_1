@@ -1,0 +1,7 @@
+Model,Question Type,Samples,Exact Match (%),ANLS (%)
+Qwen3-VL,All,60,81.67,84.11
+Qwen3-VL,numeric,30,90.0,90.0
+Qwen3-VL,open,30,73.33,78.23
+Gemma 4 E4B,All,60,31.67,38.01
+Gemma 4 E4B,numeric,30,33.33,32.5
+Gemma 4 E4B,open,30,30.0,43.51
